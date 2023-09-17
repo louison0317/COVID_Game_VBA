@@ -8,7 +8,7 @@ In this game, players take on the role of a mayor tasked with formulating polici
 
 By adjusting the `alert level` and implementing measures such as setting up `testing stations`. Meaning while, player have to find a perfect balance between safeguarding the welfare of their citizens and the city's economy.
 
-* Each measure comes with its own set of negative consequences. 
+* Each measure comes with its own set of `negative consequences`. 
 > For instance, setting up numerous testing stations may help prevent widespread infection, but it will require reallocating staff from hospitals, leading to a shortage of healthcare workers and an increase in mortality rates.
 
 > Alternatively, choosing to impose a city-wide lockdown to restrict public movement can effectively curb the spread, but it will inflict significant economic damage.
